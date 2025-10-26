@@ -73,6 +73,8 @@ Copy code
 
 ---
 
+![Confusion Matrix Heatmap](ais_csa_energi_heatmap.png)
+
 ## 🧮 Modeling Approach
 
 ### 1️⃣ Base Model — LSTM
@@ -193,8 +195,6 @@ Loss Curve	ais_csa_energi_accuracy_graph.png
 Heatmap	ais_csa_energi_heatmap.png
 Prediction Plot	ais_csa_energi_prediction_graph.png
 Metrics Bar	ais_csa_energi_result_graph.png
-
-![Confusion Matrix Heatmap](ais_csa_energi_heatmap.png)
 
 
 🔒 Error Handling
