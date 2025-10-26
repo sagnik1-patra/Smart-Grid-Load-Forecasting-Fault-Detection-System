@@ -1,0 +1,5 @@
+Dropout: 0.19742139785796298
+Epochs: 50
+Hybrid_Optimizer: GWO + PSO
+LSTM_Hidden: 123
+Learning_Rate: 0.0028996758327278485

@@ -1,0 +1,21 @@
+Dropout: !!python/object/apply:numpy.core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  mpmZmZmZqT8=
+Epochs: 50
+Hidden: 256
+Hybrid_Model: AIS + PSO Optimized LSTM
+Optimizer: adam
