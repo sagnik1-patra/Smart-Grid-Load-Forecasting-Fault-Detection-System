@@ -1,10 +1,9 @@
-Dropout: !!python/object/apply:numpy.core.multiarray.scalar
-- !!python/object/apply:numpy.dtype
-  args:
+Dropout:
+- args:
   - f8
   - false
   - true
-  state: !!python/tuple
+  state:
   - 3
   - <
   - null

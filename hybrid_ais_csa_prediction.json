@@ -1,0 +1,14 @@
+{
+    "Hybrid_Model": "PSO + CSA Optimized LSTM",
+    "Metrics": {
+        "MAE": 0.008260722100636423,
+        "RMSE": 0.010798148756801518,
+        "R2": 0.914445782370098
+    },
+    "Fault_Probability": 0.1189,
+    "Recommendations": [
+        "Moderate fluctuations \u2014 monitor",
+        "Avg deviation \u2248 0.01 units",
+        "Recalibrate if RMSE > 5.0"
+    ]
+}
