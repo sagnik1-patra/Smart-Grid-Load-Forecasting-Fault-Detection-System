@@ -1,4 +1,4 @@
-# ⚡ EnergiSense — AI-Powered Smart Grid Load Forecasting & Fault Detection System
+# ⚡ EnergiSense — AI-Powered Smart Grid Load Forecasting & Fault Detection System.
 
 ### 🌍 Intelligent Load Prediction | Fault Detection | Renewable Energy Optimization
 
